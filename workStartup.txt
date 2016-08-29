@@ -1,0 +1,26 @@
+append to bash aliases
+
+terminator
+npm
+nodejs
+n
+curl
+ipython
+virtualenvwrapper
+ipdb
+vim and kcole ide setup
+postgresql
+tig
+git
+git-flow
+tmux change binding to ctrl-a
+ruby with gem sass
+atom or visual studio code
+chrome
+spotify
+docker and all of that and make sure to add to group
+salt
+webpack
+create projects dir
+
+
